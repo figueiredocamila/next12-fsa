@@ -1,0 +1,24 @@
+{
+  "sortedMiddleware": [
+    "/about"
+  ],
+  "clientInfo": [
+    [
+      "/about",
+      false
+    ]
+  ],
+  "middleware": {
+    "/about": {
+      "env": [],
+      "files": [
+        "static/chunks/webpack-middleware-45f9f9587e6c08e1.js",
+        "server/pages/about/_middleware.js"
+      ],
+      "name": "pages/about/_middleware",
+      "page": "/about",
+      "regexp": "^/about(?:(/.*)?)$"
+    }
+  },
+  "version": 1
+}
